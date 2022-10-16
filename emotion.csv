@@ -1,0 +1,11 @@
+"","text","sentiment","phrase","class","similarity","count"
+"1","anger",-0.527062743902206,"violent","negative",0.74184654889705,371
+"2","anticipation",-0.0736222863197327,"meet expectations","positive",0.836880191842072,268
+"3","disgust",0.0535985231399536,"unpleasant","negative",0.807240355569093,278
+"4","fear",-0.131434977054596,"fearful","negative",0.915317311608455,567
+"5","joy",0.149238705635071,"joyful","positive",0.949015710696169,316
+"6","sadness",-0.159696877002716,"unhappy","negative",0.857128339747505,475
+"7","surprise",0.101806998252869,"exciting","positive",0.763304454667912,276
+"8","trust",-0.122400641441345,"loyal","positive",0.781679358835346,337
+"9","negative",-0.114915490150452,"negative","negative",0.999999999999914,809
+"10","positive",-0.278397679328918,"positive","positive",0.999999999999907,479
